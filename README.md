@@ -1079,6 +1079,7 @@ registers. Search all active companies worldwide, including directors, owners, e
 | [Poker Odds Equity EV Calculator & Advice](https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api) | Poker odds, equity & EV calculator with hand/decision advice | `apiKey` | Yes | Yes |
 | [Pokéapi](https://pokeapi.co) | Pokémon Information | No | Yes | Unknown |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | No | Yes | Yes |
+| [Pokemon Price Tracker](https://www.pokemonpricetracker.com) | Daily-updated Pokemon card prices from TCGPlayer, eBay graded sales and PSA population data | `apiKey` | Yes | Yes |
 | [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | No | Yes | Unknown |
 | [Psychonauts](https://psychonauts-api.netlify.app/) | Psychonauts World Characters Information and PSI Powers | No | Yes | Yes |
 | [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | `apiKey`| Yes | Yes |
